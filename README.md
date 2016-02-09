@@ -1,3 +1,5 @@
+*This is a copy of the look-live test server, made by Donny Wals ([https://github.com/donnywals/looklive-server/](https://github.com/donnywals/looklive-server/)*
+
 # LookLive server
 
 The project you're looking at is an [express.js](http://expressjs.com) project. You'll use it to get set up a development environment where you're
