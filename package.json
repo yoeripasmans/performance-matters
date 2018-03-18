@@ -11,6 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "compression": "^1.7.2",
+    "critical": "^1.1.1",
+    "fg-loadcss": "^2.0.1",
     "imagemin": "^5.3.1",
     "imagemin-jpegtran": "^5.0.2",
     "imagemin-pngquant": "^5.0.1",
